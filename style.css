@@ -15,7 +15,6 @@ body{
 .container{
     min-height:100vh;
     padding:20px;
-    padding-top:60px; /* status bar fix */
     background:linear-gradient(180deg,#1c1f2e,#11131c);
 }
 
